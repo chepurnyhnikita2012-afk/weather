@@ -10,8 +10,8 @@ $x = round($data['main']['temp']);
 <!DOCTYPE html>
 <html lang="uk">
 <head>
-<meta charset="UTF-8">
-<title>Мій термометр</title>
+    <meta charset="UTF-8">
+    <title>Мій термометр</title>
 
 <style>
 * {
